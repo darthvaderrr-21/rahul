@@ -3909,7 +3909,7 @@ textarea.form-control-lg {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: #021f46;
 }
 
 .nav-fill > .nav-link,
@@ -11353,6 +11353,7 @@ section{
 
 #s4 .image .text {
   color: white;
+  text-decoration: none;
   font-size: 20px;
   position: absolute;
   top: 50%;
